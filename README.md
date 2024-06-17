@@ -3,7 +3,7 @@ krishnaksharmaa/krishnaksharmaa is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 # 💫 About Me:
-- 👋 Hi, I’m @krishnaksharmaa <br>
+-👋 Hi, I’m @krishnaksharmaa <br>
 -🌱 I’m currently learning Java full Stack and Dsa <br>
 -💬 Ask me about In Technologies <br>
 
