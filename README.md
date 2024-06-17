@@ -4,7 +4,8 @@ You can click the Preview link to take a look at your changes.
 --->
 # 💫 About Me:
 - 👋 Hi, I’m @krishnaksharmaa
-🌱 I’m currently learning Java full Stack and Dsa<br>💬 Ask me about In Technologies
+🌱 I’m currently learning Java full Stack and Dsa<br>
+💬 Ask me about In Technologies
 
 
 # 💻 Tech Stack:
